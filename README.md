@@ -1,0 +1,2 @@
+# Pengantar_Sains_Data_Pertemuan10
+Praktik coding Regresi Linear Multivariabel
